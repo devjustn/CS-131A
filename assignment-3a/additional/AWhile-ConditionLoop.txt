@@ -1,0 +1,4 @@
+i = 0 # cycle counter (zero cycles so far)
+while i != 10: # do exactly 10 cycles 
+  ... 
+  i = i + 1
